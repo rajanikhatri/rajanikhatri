@@ -1,0 +1,31 @@
+# Rajani Khatri
+
+Hi, I'm Rajani. I'm a senior at Northern Kentucky University studying Computer Science with a minor in Data Science. I enjoy building software, working with data, and exploring ideas through research. I like understanding how systems work, how data flows through them, and how analysis turns that data into useful insights.
+
+I’m especially interested in work that combines coding, data, and analytical thinking.
+
+## What I'm Currently Working On
+
+- Mood Machine, a sentiment analysis project that predicts positive, negative, neutral, or mixed mood  
+  Live demo: https://ai110-module3tinker-themoodmachine-starter-rgdsvmvncm98piorscw.streamlit.app/
+
+- Exploring data-driven projects focused on evaluation, identifying patterns, and understanding how systems behave
+
+## Skills
+
+- Programming: Python, Java  
+- Web: React  
+- Data: SQL, Data Analysis  
+- Research: Data analysis, problem exploration, evaluation  
+
+## Projects
+
+### Mood Machine
+
+A rule-based sentiment analysis app built with Python and Streamlit. It predicts whether text is positive, negative, neutral, or mixed. The project includes improved preprocessing, emoji handling, and support for mixed sentiment.
+
+Live demo: https://ai110-module3tinker-themoodmachine-starter-rgdsvmvncm98piorscw.streamlit.app/
+
+## What I'm Looking For
+
+I'm looking for internships in software engineering, data-focused roles, or opportunities that combine development and analysis.
