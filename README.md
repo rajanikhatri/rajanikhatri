@@ -55,7 +55,8 @@ A debugging and analysis project focused on identifying and fixing issues in a g
 - Evaluated AI-generated debugging suggestions  
 - Implemented fixes and validated improvements  
 
-Live demo : gameglitchinvestigator-codepath-cgeyeud4zdeechbesyr3ou.streamlit.app/
+Live demo : https://gameglitchinvestigator-codepath-cgeyeud4zdeechbesyr3ou.streamlit.app/
+
 
 ---
 
