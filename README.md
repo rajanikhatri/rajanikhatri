@@ -32,6 +32,13 @@ I'm looking for internships in software engineering, data-focused roles, or oppo
 
 ## GitHub Stats
 
-![Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanikhatri&show_icons=true&theme=default)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanikhatri&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajanikhatri&show_icons=true&theme=default&cache_seconds=60" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanikhatri&layout=compact&theme=default&cache_seconds=60" height="170em" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=rajanikhatri&theme=default" />
+</p>
