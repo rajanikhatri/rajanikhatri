@@ -30,7 +30,6 @@ Live demo: https://ai110-module3tinker-themoodmachine-starter-rgdsvmvncm98piorsc
 
 I'm looking for internships in software engineering, data-focused roles, or opportunities that combine development and analysis.
 
-## GitHub Stats
 
 ## GitHub Stats
 
