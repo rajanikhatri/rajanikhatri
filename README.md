@@ -6,7 +6,7 @@ I’m especially interested in work that combines coding, data, and analytical t
 
 ## What I'm Currently Working On
 
-- Mood Machine, a sentiment analysis project that predicts positive, negative, neutral, or mixed mood  
+- Mood Machine,a rule-based sentiment analysis app that predicts positive, negative, neutral, or mixed mood using keyword and emoji signals. Built with Python and Streamlit.
   Live demo: https://ai110-module3tinker-themoodmachine-starter-rgdsvmvncm98piorscw.streamlit.app/
 
 - Exploring data-driven projects focused on evaluation, identifying patterns, and understanding how systems behave
@@ -29,3 +29,9 @@ Live demo: https://ai110-module3tinker-themoodmachine-starter-rgdsvmvncm98piorsc
 ## What I'm Looking For
 
 I'm looking for internships in software engineering, data-focused roles, or opportunities that combine development and analysis.
+
+## GitHub Stats
+
+![Rajani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanikhatri&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanikhatri&layout=compact)
