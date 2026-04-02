@@ -13,10 +13,11 @@ I’m especially interested in work that combines coding, data, and analytical t
 
 ## Skills
 
-- Programming: Python, Java  
-- Web: React  
-- Data: SQL, Data Analysis  
-- Research: Data analysis, problem exploration, evaluation  
+- Programming: Java, Python, JavaScript, TypeScript, C/C++, R  
+- Web & Frameworks: React, Node.js, Next.js, Flask, Android  
+- Data & Databases: SQL, Data Analysis  
+- Tools & Platforms: Git/GitHub, Streamlit, Supabase, Firebase  
+- Research: Data analysis, problem exploration, evaluation   
 
 ## Projects
 
