@@ -1,6 +1,6 @@
 # Rajani Khatri
 
-Hi, I'm Rajani. I'm a senior at Northern Kentucky University studying Computer Science with a minor in Data Science.
+Hi, I'm Rajani. I'm a senior at Northern Kentucky University studying Computer Science with a minor in Data Science, graduating this May 2026.
 
 I enjoy building software, working with data, and exploring problems through research. I like understanding how systems work, how data flows through them, and how analysis turns that data into useful insights.
 
