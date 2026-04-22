@@ -72,9 +72,9 @@ Live demo : https://gameglitchinvestigator-codepath-cgeyeud4zdeechbesyr3ou.strea
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajanikhatri&theme=default" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajanikhatri&theme=default)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanikhatri&layout=compact&theme=default)
 
 ---
 
